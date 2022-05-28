@@ -20,7 +20,7 @@ a {
   font-size: 1.5rem;
 }
 i {
-  transition: 0.2s;
+  transition: transform 0.2s ease;
 }
 i:hover {
   padding: 0 2px;
