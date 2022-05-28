@@ -16,7 +16,7 @@ h1 {
   font-size: 2.5rem;
 }
 a {
-  color: rgba(0, 0, 0, 0.4);
+  color: black;
   font-size: 1.5rem;
 }
 i {
@@ -47,6 +47,7 @@ header {
 }
 .accordion-item-header {
   padding: 0.5rem 3rem 0.5rem 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.25rem;
   min-height: 3.5rem;
